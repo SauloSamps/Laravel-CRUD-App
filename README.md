@@ -1,4 +1,4 @@
-#Laravel-CRUD-App
+# Laravel-CRUD-App
 
 This is a simple CRUD blog using Laravel based on the great series by Traversy Media on youtube.
 
