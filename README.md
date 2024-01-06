@@ -1,6 +1,6 @@
 # Laravel-CRUD-App
 
-This is a simple CRUD blog using Laravel based on the great series by Traversy Media on youtube.
+This is a simple CRUD blog using Laravel based on the great series by Traversy Media on youtube. This app uses Laravel alongside simple HTML, CSS, JS and Bootstrap.
 
 You can find his playlist on youtube: https://youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&si=zGtCaEqX6_JdvWP8
 
